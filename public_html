@@ -1,0 +1,15 @@
+/public_html
+│── /game
+│   │── stage1.html
+│   │── stage2.html
+│   │── stage3.html
+│   │── stage4.html
+│   │── stage5.html
+│── /css
+│   │── styles.css
+│── /js
+│   │── script.js
+│── /ads
+│   │── ads.js
+│── index.html
+│── verification.php
